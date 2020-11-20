@@ -114,6 +114,7 @@
 
 ## TypeScript 
 
+- [nx-ddd-plugin](https://github.com/angular-architects/nx-ddd-plugin) - Nx plugin for structuring a monorepo with domains and layers
 - [injection-js](https://github.com/mgechev/injection-js) - Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested.
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - 
