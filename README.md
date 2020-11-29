@@ -91,6 +91,7 @@
 
 ## Others 
 
+- [noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [glyphhanger](https://github.com/raeffs/glyphhanger) - A docker image that has Glyphhanger preinstalled.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
@@ -102,6 +103,7 @@
 
 ## Python 
 
+- [noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [RedHatFont](https://github.com/RedHatOfficial/RedHatFont) - Red Hat's Open Source Fonts - Red Hat Display and Red Hat Text
 - [pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
