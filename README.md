@@ -36,6 +36,7 @@
 
 ## C++ 
 
+- [diskspd](https://github.com/microsoft/diskspd) - DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams
 - [brunsli](https://github.com/google/brunsli) - Practical JPEG Repacker
 - [zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
