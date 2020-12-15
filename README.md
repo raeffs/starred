@@ -113,6 +113,7 @@
 
 ## Shell 
 
+- [AzureDevOps-agents](https://github.com/RobertoPrevato/AzureDevOps-agents) - Images for self-hosted DevOps agents
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 
 ## TypeScript 
