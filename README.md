@@ -43,7 +43,6 @@
 
 ## CSS 
 
-- [docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
 - [hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
 
 ## Clojure 
@@ -115,6 +114,7 @@
 
 - [AzureDevOps-agents](https://github.com/RobertoPrevato/AzureDevOps-agents) - Images for self-hosted DevOps agents
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
+- [docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
 
 ## TypeScript 
 
