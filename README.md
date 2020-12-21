@@ -118,6 +118,7 @@
 
 ## TypeScript 
 
+- [fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [nx-ddd-plugin](https://github.com/angular-architects/nx-ddd-plugin) - Nx plugin for structuring a monorepo with domains and layers
 - [injection-js](https://github.com/mgechev/injection-js) - Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested.
