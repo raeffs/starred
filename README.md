@@ -84,7 +84,7 @@
 - [icon-font-generator](https://github.com/Workshape/icon-font-generator) - Easy-to-use, pre-configured cli tool to generate webfont icon kits from a bunch of .svg files
 - [open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack) - Explaining how to optimize the large bundle size of moment.js with webpack
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [keycodes](https://github.com/wesbos/keycodes) - Easy visualizer for JavaScript KeyCodes
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
