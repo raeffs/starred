@@ -123,6 +123,7 @@
 
 ## TypeScript 
 
+- [angular-grid-layout](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
 - [ngx-hover-preload](https://github.com/mgechev/ngx-hover-preload) - 🖱 Preload Angular lazy-loaded routes on mouse over
 - [fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
