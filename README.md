@@ -117,6 +117,7 @@
 
 ## Shell 
 
+- [freenas-spindown-timer](https://github.com/ngandrass/freenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
 - [AzureDevOps-agents](https://github.com/RobertoPrevato/AzureDevOps-agents) - Images for self-hosted DevOps agents
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
