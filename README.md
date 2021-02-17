@@ -103,7 +103,7 @@
 ## PowerShell 
 
 - [dotfiles](https://github.com/raeffs/dotfiles) - Your dotfiles are how you personalize your system. These are mine for Windows.
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theming engine for Powershell
+- [oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 - [svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
 
 ## Python 
