@@ -31,6 +31,7 @@
 
 ## C# # 
 
+- [NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
 - [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -74,6 +75,7 @@
 
 ## JavaScript 
 
+- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [recipes](https://github.com/vabene1111/recipes) - Django application for managing recipes
 - [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [evaluatory](https://github.com/darekkay/evaluatory) - Web page evaluation with a focus on accessibility
@@ -124,6 +126,7 @@
 
 ## TypeScript 
 
+- [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
 - [angular-grid-layout](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
 - [ngx-hover-preload](https://github.com/mgechev/ngx-hover-preload) - 🖱 Preload Angular lazy-loaded routes on mouse over
 - [fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
