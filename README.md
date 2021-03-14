@@ -68,6 +68,7 @@
 
 ## HTML 
 
+- [groceri.es](https://github.com/juriansluiman/groceri.es) - Application groceri.es
 - [landing-page](https://github.com/raeffs/landing-page) - Contains the code for my landing page found at raeffs.dev.
 
 ## Handlebars 
@@ -99,6 +100,7 @@
 
 ## Others 
 
+- [awesome-js-tools](https://github.com/microsoft/awesome-js-tools) - An awesome list for JS tools
 - [noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [glyphhanger](https://github.com/raeffs/glyphhanger) - A docker image that has Glyphhanger preinstalled.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
@@ -120,6 +122,7 @@
 
 ## Shell 
 
+- [acme-proxy](https://github.com/raeffs/acme-proxy) - Contains the configuration of my ACME proxy that forwards requests to hosts on my local network.
 - [freenas-spindown-timer](https://github.com/ngandrass/freenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
 - [AzureDevOps-agents](https://github.com/RobertoPrevato/AzureDevOps-agents) - Images for self-hosted DevOps agents
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
@@ -156,6 +159,7 @@
 
 ## Vue 
 
+- [mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
 - [victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 
 
