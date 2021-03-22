@@ -25,142 +25,142 @@
 
 ## C 
 
-- [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- [mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-- [brotli](https://github.com/google/brotli) - Brotli compression format
+- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
+- [google/brotli](https://github.com/google/brotli) - Brotli compression format
 
 ## C# # 
 
-- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
-- [NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-- [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
-- [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+- [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+- [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 
 ## C++ 
 
-- [diskspd](https://github.com/microsoft/diskspd) - DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams
-- [brunsli](https://github.com/google/brunsli) - Practical JPEG Repacker
-- [zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
+- [microsoft/diskspd](https://github.com/microsoft/diskspd) - DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams
+- [google/brunsli](https://github.com/google/brunsli) - Practical JPEG Repacker
+- [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
 
 ## CSS 
 
-- [hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
+- [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
 
 ## Clojure 
 
-- [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## CoffeeScript 
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Caniuse command line tool
+- [sgentle/caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Caniuse command line tool
 
 ## Dart 
 
-- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Go 
 
-- [ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
-- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 
 ## HTML 
 
-- [groceri.es](https://github.com/juriansluiman/groceri.es) - Application groceri.es
-- [landing-page](https://github.com/raeffs/landing-page) - Contains the code for my landing page found at raeffs.dev.
+- [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - Application groceri.es
+- [raeffs/landing-page](https://github.com/raeffs/landing-page) - Contains the code for my landing page found at raeffs.dev.
 
 ## Handlebars 
 
-- [vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
+- [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
 
 ## JavaScript 
 
-- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [recipes](https://github.com/vabene1111/recipes) - Django application for managing recipes
-- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
-- [evaluatory](https://github.com/darekkay/evaluatory) - Web page evaluation with a focus on accessibility
-- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
-- [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [icon-font-generator](https://github.com/Workshape/icon-font-generator) - Easy-to-use, pre-configured cli tool to generate webfont icon kits from a bunch of .svg files
-- [open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
-- [how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack) - Explaining how to optimize the large bundle size of moment.js with webpack
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
-- [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [keycodes](https://github.com/wesbos/keycodes) - Easy visualizer for JavaScript KeyCodes
-- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
-- [dgeni-packages](https://github.com/angular/dgeni-packages) - A collection of dgeni packages for generating documentation from source code.
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [vabene1111/recipes](https://github.com/vabene1111/recipes) - Django application for managing recipes
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
+- [darekkay/evaluatory](https://github.com/darekkay/evaluatory) - Web page evaluation with a focus on accessibility
+- [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Workshape/icon-font-generator](https://github.com/Workshape/icon-font-generator) - Easy-to-use, pre-configured cli tool to generate webfont icon kits from a bunch of .svg files
+- [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
+- [jmblog/how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack) - Explaining how to optimize the large bundle size of moment.js with webpack
+- [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [wesbos/keycodes](https://github.com/wesbos/keycodes) - Easy visualizer for JavaScript KeyCodes
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
+- [angular/dgeni-packages](https://github.com/angular/dgeni-packages) - A collection of dgeni packages for generating documentation from source code.
 
 ## Others 
 
-- [awesome-js-tools](https://github.com/microsoft/awesome-js-tools) - An awesome list for JS tools
-- [noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
-- [glyphhanger](https://github.com/raeffs/glyphhanger) - A docker image that has Glyphhanger preinstalled.
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [microsoft/awesome-js-tools](https://github.com/microsoft/awesome-js-tools) - An awesome list for JS tools
+- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
+- [raeffs/glyphhanger](https://github.com/raeffs/glyphhanger) - A docker image that has Glyphhanger preinstalled.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
 ## PowerShell 
 
-- [dotfiles](https://github.com/raeffs/dotfiles) - Your dotfiles are how you personalize your system. These are mine for Windows.
-- [oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-- [svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
+- [raeffs/dotfiles](https://github.com/raeffs/dotfiles) - Your dotfiles are how you personalize your system. These are mine for Windows.
+- [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
+- [tibold/svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
 
 ## Python 
 
-- [noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
-- [RedHatFont](https://github.com/RedHatOfficial/RedHatFont) - Red Hat's Open Source Fonts - Red Hat Display and Red Hat Text
-- [pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
-- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+- [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
+- [RedHatOfficial/RedHatFont](https://github.com/RedHatOfficial/RedHatFont) - Red Hat's Open Source Fonts - Red Hat Display and Red Hat Text
+- [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 
 ## Shell 
 
-- [acme-proxy](https://github.com/raeffs/acme-proxy) - Contains the configuration of my ACME proxy that forwards requests to hosts on my local network.
-- [freenas-spindown-timer](https://github.com/ngandrass/freenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
-- [AzureDevOps-agents](https://github.com/RobertoPrevato/AzureDevOps-agents) - Images for self-hosted DevOps agents
-- [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
-- [docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
+- [raeffs/acme-proxy](https://github.com/raeffs/acme-proxy) - Contains the configuration of my ACME proxy that forwards requests to hosts on my local network.
+- [ngandrass/freenas-spindown-timer](https://github.com/ngandrass/freenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
+- [RobertoPrevato/AzureDevOps-agents](https://github.com/RobertoPrevato/AzureDevOps-agents) - Images for self-hosted DevOps agents
+- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
+- [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
 
 ## TypeScript 
 
-- [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
-- [angular-grid-layout](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
-- [ngx-hover-preload](https://github.com/mgechev/ngx-hover-preload) - 🖱 Preload Angular lazy-loaded routes on mouse over
-- [fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
-- [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
-- [nx-ddd-plugin](https://github.com/angular-architects/nx-ddd-plugin) - Nx plugin for structuring a monorepo with domains and layers
-- [injection-js](https://github.com/mgechev/injection-js) - Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested.
-- [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
-- [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - 
-- [nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos
-- [rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-- [angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
-- [components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
-- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps
-- [model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
-- [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
-- [sbb-angular](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB
-- [platform](https://github.com/ngrx/platform) - Reactive libraries for Angular
-- [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
-- [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [vscode-ng-language-service](https://github.com/angular/vscode-ng-language-service) - Angular extension for Visual Studio Code
-- [dgeni](https://github.com/angular/dgeni) - Flexible JavaScript documentation generator used by AngularJS, Protractor and other JS projects
-- [zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
-- [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
-- [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
+- [damienbod/angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
+- [katoid/angular-grid-layout](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
+- [mgechev/ngx-hover-preload](https://github.com/mgechev/ngx-hover-preload) - 🖱 Preload Angular lazy-loaded routes on mouse over
+- [tancredi/fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
+- [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
+- [angular-architects/nx-ddd-plugin](https://github.com/angular-architects/nx-ddd-plugin) - Nx plugin for structuring a monorepo with domains and layers
+- [mgechev/injection-js](https://github.com/mgechev/injection-js) - Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested.
+- [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
+- [angular-architects/module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - 
+- [nrwl/nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos
+- [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
+- [angular/angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
+- [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [scullyio/scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps
+- [angular-extensions/model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
+- [manfredsteyer/angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
+- [sbb-design-systems/sbb-angular](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB
+- [ngrx/platform](https://github.com/ngrx/platform) - Reactive libraries for Angular
+- [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [angular/vscode-ng-language-service](https://github.com/angular/vscode-ng-language-service) - Angular extension for Visual Studio Code
+- [angular/dgeni](https://github.com/angular/dgeni) - Flexible JavaScript documentation generator used by AngularJS, Protractor and other JS projects
+- [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
+- [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+- [angular/angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 
 ## Vue 
 
-- [mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
-- [victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
+- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+- [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 
 
 ## License
