@@ -12,6 +12,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
+  - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [HTML](#html)
   - [Handlebars](#handlebars)
@@ -60,6 +61,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
+## Gnuplot 
+
+- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
+
 ## Go 
 
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
@@ -101,7 +106,6 @@
 ## Others 
 
 - [microsoft/awesome-js-tools](https://github.com/microsoft/awesome-js-tools) - An awesome list for JS tools
-- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [raeffs/glyphhanger](https://github.com/raeffs/glyphhanger) - A docker image that has Glyphhanger preinstalled.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
