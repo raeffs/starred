@@ -47,6 +47,7 @@
 
 ## CSS 
 
+- [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
 - [poole/hyde](https://github.com/poole/hyde) - A brazen two-column theme for Jekyll.
 
 ## Clojure 
@@ -130,7 +131,6 @@
 - [ngandrass/freenas-spindown-timer](https://github.com/ngandrass/freenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
 - [RobertoPrevato/AzureDevOps-agents](https://github.com/RobertoPrevato/AzureDevOps-agents) - Images for self-hosted DevOps agents
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
-- [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
 
 ## TypeScript 
 
