@@ -136,6 +136,7 @@
 
 ## TypeScript 
 
+- [raeffs/node-toolkit](https://github.com/raeffs/node-toolkit) - An collection of opinionated, reusable and mostly framework-agnostic code that I use throughout my projects.
 - [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [damienbod/angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
 - [katoid/angular-grid-layout](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
