@@ -75,6 +75,7 @@
 ## HTML 
 
 - [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - Application groceri.es
+- [vabene1111/recipes](https://github.com/vabene1111/recipes) - Django application for managing recipes
 - [raeffs/landing-page](https://github.com/raeffs/landing-page) - Contains the code for my landing page found at raeffs.dev.
 
 ## Handlebars 
@@ -88,7 +89,6 @@
 - [jeffbcross/victor-videos](https://github.com/jeffbcross/victor-videos) - 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [vabene1111/recipes](https://github.com/vabene1111/recipes) - Django application for managing recipes
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [darekkay/evaluatory](https://github.com/darekkay/evaluatory) - Web page evaluation with a focus on accessibility
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
