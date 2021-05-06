@@ -142,6 +142,7 @@
 
 ## TypeScript 
 
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular) - Reactive Extensions for Angular
 - [raeffs/node-toolkit](https://github.com/raeffs/node-toolkit) - An collection of opinionated, reusable and mostly framework-agnostic code that I use throughout my projects.
