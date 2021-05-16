@@ -12,6 +12,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
+  - [Elixir](#elixir)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [HTML](#html)
@@ -61,6 +62,10 @@
 ## Dart 
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+
+## Elixir 
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Gnuplot 
 
