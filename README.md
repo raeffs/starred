@@ -167,7 +167,7 @@
 - [mgechev/injection-js](https://github.com/mgechev/injection-js) - Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [angular-architects/module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - 
-- [nrwl/nx](https://github.com/nrwl/nx) - Powerful, Extensible Dev Tools
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [angular/angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
