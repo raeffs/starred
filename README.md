@@ -183,7 +183,7 @@
 - [angular/dgeni](https://github.com/angular/dgeni) - Flexible JavaScript documentation generator used by AngularJS, Protractor and other JS projects
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
-- [angular/angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
+- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 
 ## Vue 
 
