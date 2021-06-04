@@ -141,6 +141,7 @@
 
 ## Shell 
 
+- [ShiromMakkad/docker-pihole-sync](https://github.com/ShiromMakkad/docker-pihole-sync) - A Docker Container To Sync Two Piholes
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
 - [raeffs/acme-proxy](https://github.com/raeffs/acme-proxy) - Contains the configuration of my ACME proxy that forwards requests to hosts on my local network.
