@@ -22,6 +22,7 @@
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -78,6 +79,7 @@
 
 ## Go 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -138,6 +140,11 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+
+## Ruby 
+
+- [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
+- [swanson/stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
 
 ## Shell 
 
