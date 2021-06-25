@@ -18,6 +18,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Handlebars](#handlebars)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Others](#others)
   - [PowerShell](#powershell)
@@ -96,6 +97,10 @@
 
 - [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
 
+## Java 
+
+- [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating  third party sticker packs for WhatsApp.
+
 ## JavaScript 
 
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -163,6 +168,7 @@
 
 ## TypeScript 
 
+- [ngneat/lib](https://github.com/ngneat/lib) - 🤖 Lets you focus on the stuff that matters
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
