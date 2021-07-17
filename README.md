@@ -35,6 +35,7 @@
 
 ## C# # 
 
+- [DuendeSoftware/BFF](https://github.com/DuendeSoftware/BFF) - Framework for ASP.NET Core to secure SPAs using the Backend-for-Frontend (BFF) pattern
 - [MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) - AZ-204: Developing solutions for Microsoft Azure
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
