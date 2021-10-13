@@ -93,7 +93,7 @@
 ## HTML 
 
 - [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - Application groceri.es
-- [vabene1111/recipes](https://github.com/vabene1111/recipes) - Django application for managing recipes
+- [vabene1111/recipes](https://github.com/vabene1111/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [raeffs/landing-page](https://github.com/raeffs/landing-page) - Contains the code for my landing page found at raeffs.dev.
 
 ## Handlebars 
