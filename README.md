@@ -26,6 +26,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -176,6 +177,10 @@
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+
+## TeX 
+
+- [glederrey/EPFL_thesis_template](https://github.com/glederrey/EPFL_thesis_template) - Unofficial template for the PhD thesis at EPFL maintained by PolyDoc
 
 ## TypeScript 
 
