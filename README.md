@@ -186,6 +186,7 @@
 
 ## TypeScript 
 
+- [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli) - Azure Static Web Apps CLI ✨
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [ngneat/lib](https://github.com/ngneat/lib) - 🤖 Lets you focus on the stuff that matters
