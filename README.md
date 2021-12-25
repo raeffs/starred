@@ -163,7 +163,7 @@
 ## Ruby 
 
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
-- [swanson/stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+- [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 
 ## Rust 
 
