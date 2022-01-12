@@ -14,7 +14,6 @@
   - [D](#d)
   - [Dart](#dart)
   - [Elixir](#elixir)
-  - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [HTML](#html)
   - [Handlebars](#handlebars)
@@ -77,10 +76,6 @@
 ## Elixir 
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-
-## Gnuplot 
-
-- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 
 ## Go 
 
@@ -154,6 +149,7 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
+- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [RedHatOfficial/RedHatFont](https://github.com/RedHatOfficial/RedHatFont) - Red Hat's Open Source Fonts - Red Hat Display and Red Hat Text
 - [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
