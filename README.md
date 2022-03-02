@@ -89,7 +89,7 @@
 
 ## HTML 
 
-- [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - Application groceri.es
+- [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - groceri.es is a recipe manager and meal planning tool
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [raeffs/landing-page](https://github.com/raeffs/landing-page) - Contains the code for my landing page found at raeffs.dev.
 
