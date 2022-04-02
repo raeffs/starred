@@ -103,6 +103,7 @@
 
 ## JavaScript 
 
+- [microsoft/eslint-plugin-sdl](https://github.com/microsoft/eslint-plugin-sdl) - ESLint Plugin focused on common security issues and misconfigurations.
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [hypercore-protocol/hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
