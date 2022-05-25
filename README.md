@@ -152,6 +152,7 @@
 ## Python 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [RedHatOfficial/RedHatFont](https://github.com/RedHatOfficial/RedHatFont) - Red Hat's Open Source Fonts - Red Hat Display and Red Hat Text
@@ -227,7 +228,6 @@
 
 ## Vue 
 
-- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 
 
