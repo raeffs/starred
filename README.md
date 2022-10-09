@@ -196,7 +196,7 @@
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [ngneat/lib](https://github.com/ngneat/lib) - 🤖 Lets you focus on the stuff that matters
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular) - Reactive Extensions for Angular.
 - [raeffs/node-toolkit](https://github.com/raeffs/node-toolkit) - An collection of opinionated, reusable and mostly framework-agnostic code that I use throughout my projects.
 - [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 12, Nx Workspace, ngrx, TailwindCSS and ng-zorro
