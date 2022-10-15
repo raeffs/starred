@@ -218,7 +218,7 @@
 - [angular-extensions/model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 - [manfredsteyer/angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
 - [sbb-design-systems/sbb-angular](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB
-- [ngrx/platform](https://github.com/ngrx/platform) - Reactive libraries for Angular
+- [ngrx/platform](https://github.com/ngrx/platform) - Reactive State for Angular
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [angular/vscode-ng-language-service](https://github.com/angular/vscode-ng-language-service) - Angular extension for Visual Studio Code
