@@ -19,6 +19,7 @@
 - [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Less](#less)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -104,6 +105,7 @@
 
 ## JavaScript 
 
+- [MrTeferi/MTG-Autoproxy](https://github.com/MrTeferi/MTG-Autoproxy) - Photoshop scripting to generate high-quality Magic card renders, inserting Scryfall data into Photoshop frame templates.
 - [DuendeSoftware/IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core
 - [microsoft/eslint-plugin-sdl](https://github.com/microsoft/eslint-plugin-sdl) - ESLint Plugin focused on common security issues and misconfigurations.
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
@@ -131,6 +133,10 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [angular/dgeni-packages](https://github.com/angular/dgeni-packages) - A collection of dgeni packages for generating documentation from source code.
+
+## Less 
+
+- [andrewgioia/mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font
 
 ## Others 
 
