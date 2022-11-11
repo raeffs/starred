@@ -171,6 +171,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 
