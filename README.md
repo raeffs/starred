@@ -38,6 +38,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [ligershark/WebOptimizer](https://github.com/ligershark/WebOptimizer) - A bundler and minifier for ASP.NET Core
 - [eidias/NetSecurity](https://github.com/eidias/NetSecurity) - 
 - [DuendeSoftware/BFF](https://github.com/DuendeSoftware/BFF) - Framework for ASP.NET Core to secure SPAs using the Backend-for-Frontend (BFF) pattern
@@ -106,6 +107,7 @@
 
 ## JavaScript 
 
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [MrTeferi/MTG-Autoproxy](https://github.com/MrTeferi/MTG-Autoproxy) - Photoshop scripting to generate high-quality Magic card renders, inserting Scryfall data into Photoshop frame templates.
 - [DuendeSoftware/IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core
 - [microsoft/eslint-plugin-sdl](https://github.com/microsoft/eslint-plugin-sdl) - ESLint Plugin focused on common security issues and misconfigurations.
