@@ -185,7 +185,6 @@
 
 ## Shell 
 
-- [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains the configuration of my docker host that aims to improve my home network with several services.
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [ShiromMakkad/docker-pihole-sync](https://github.com/ShiromMakkad/docker-pihole-sync) - A Docker Container To Sync Two Piholes
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -201,6 +200,7 @@
 
 ## TypeScript 
 
+- [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains a collection of docker compose configurations used for self-hosting.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
 - [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli) - Azure Static Web Apps CLI ✨
