@@ -38,6 +38,7 @@
 
 ## C# # 
 
+- [KristofferStrube/ActivityStreams](https://github.com/KristofferStrube/ActivityStreams) - A .NET implementation of the Activity Streams vocabulary in the form of classes that can be serialized using System.Text.Json
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [ligershark/WebOptimizer](https://github.com/ligershark/WebOptimizer) - A bundler and minifier for ASP.NET Core
 - [eidias/NetSecurity](https://github.com/eidias/NetSecurity) - 
