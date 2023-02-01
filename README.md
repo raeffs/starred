@@ -20,6 +20,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Less](#less)
+- [Makefile](#makefile)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -117,7 +118,6 @@
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [jeffbcross/victor-videos](https://github.com/jeffbcross/victor-videos) - 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -141,6 +141,10 @@
 ## Less 
 
 - [andrewgioia/mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font
+
+## Makefile 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Others 
 
