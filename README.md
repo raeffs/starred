@@ -208,9 +208,9 @@
 
 ## TypeScript 
 
+- [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains a collection of docker compose configurations used for self-hosting.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains a collection of docker compose configurations used for self-hosting.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
 - [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli) - Azure Static Web Apps CLI ✨
