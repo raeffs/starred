@@ -113,6 +113,7 @@
 
 - [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [MrTeferi/MTG-Autoproxy](https://github.com/MrTeferi/MTG-Autoproxy) - Photoshop scripting to generate high-quality Magic card renders, inserting Scryfall data into Photoshop frame templates.
 - [DuendeSoftware/IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core
 - [microsoft/eslint-plugin-sdl](https://github.com/microsoft/eslint-plugin-sdl) - ESLint Plugin focused on common security issues and misconfigurations.
@@ -212,7 +213,6 @@
 - [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains a collection of docker compose configurations used for self-hosting.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
 - [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli) - Azure Static Web Apps CLI ✨
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
