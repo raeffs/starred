@@ -113,7 +113,7 @@
 
 - [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [MrTeferi/MTG-Autoproxy](https://github.com/MrTeferi/MTG-Autoproxy) - Photoshop scripting to generate high-quality Magic card renders, inserting Scryfall data into Photoshop frame templates.
 - [DuendeSoftware/IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core
 - [microsoft/eslint-plugin-sdl](https://github.com/microsoft/eslint-plugin-sdl) - ESLint Plugin focused on common security issues and misconfigurations.
