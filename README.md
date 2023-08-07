@@ -171,7 +171,7 @@
 - [Jertzukka/dlensExporter](https://github.com/Jertzukka/dlensExporter) - Python GUI program to convert .dlens into .csv format.
 - [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) - Azure Native Provider
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
+- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [RedHatOfficial/RedHatFont](https://github.com/RedHatOfficial/RedHatFont) - Red Hat's Open Source Fonts - Red Hat Display and Red Hat Text
