@@ -20,7 +20,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Less](#less)
-- [Makefile](#makefile)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -144,16 +143,13 @@
 
 - [andrewgioia/mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font
 
-## Makefile 
-
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
 ## Others 
 
 - [andreaswissel/design-systems-workshop](https://github.com/andreaswissel/design-systems-workshop) - 
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [microsoft/awesome-js-tools](https://github.com/microsoft/awesome-js-tools) - An awesome list for JS tools
 - [raeffs/glyphhanger](https://github.com/raeffs/glyphhanger) - A docker image that has Glyphhanger preinstalled.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
