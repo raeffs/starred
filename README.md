@@ -19,12 +19,12 @@
 - [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Less](#less)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -139,10 +139,6 @@
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [angular/dgeni-packages](https://github.com/angular/dgeni-packages) - A collection of dgeni packages for generating documentation from source code.
 
-## Less 
-
-- [andrewgioia/mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font
-
 ## Others 
 
 - [andreaswissel/design-systems-workshop](https://github.com/andreaswissel/design-systems-workshop) - 
@@ -187,6 +183,10 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+
+## SCSS 
+
+- [andrewgioia/mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font
 
 ## Shell 
 
