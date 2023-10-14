@@ -110,7 +110,6 @@
 
 ## JavaScript 
 
-- [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [MrTeferi/MTG-Autoproxy](https://github.com/MrTeferi/MTG-Autoproxy) - Photoshop scripting to generate high-quality Magic card renders, inserting Scryfall data into Photoshop frame templates.
@@ -206,6 +205,7 @@
 ## TypeScript 
 
 - [raeffs/docker-host](https://github.com/raeffs/docker-host) - Contains a collection of docker compose configurations used for self-hosting.
+- [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
