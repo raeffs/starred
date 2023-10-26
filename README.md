@@ -232,7 +232,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [toptal/keycodes](https://github.com/toptal/keycodes) - Easy visualizer for JavaScript KeyCodes
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-- [angular/angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
+- [angular/angularfire](https://github.com/angular/angularfire) - Angular + Firebase = ❤️
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [scullyio/scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps
