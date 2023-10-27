@@ -134,7 +134,6 @@
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [angular/dgeni-packages](https://github.com/angular/dgeni-packages) - A collection of dgeni packages for generating documentation from source code.
 
@@ -235,6 +234,7 @@
 - [angular/angularfire](https://github.com/angular/angularfire) - Angular + Firebase = ❤️
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [scullyio/scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps
 - [angular-extensions/model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 - [manfredsteyer/angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
