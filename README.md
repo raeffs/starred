@@ -95,7 +95,6 @@
 
 ## HTML 
 
-- [andreaswissel/design-systems-workshop](https://github.com/andreaswissel/design-systems-workshop) - 
 - [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - groceri.es is a recipe manager and meal planning tool
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [raeffs/landing-page](https://github.com/raeffs/landing-page) - Contains the code for my landing page found at raeffs.dev.
@@ -140,6 +139,7 @@
 
 ## Others 
 
+- [andreaswissel/design-systems-workshop](https://github.com/andreaswissel/design-systems-workshop) - 
 - [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) - Azure Native Provider
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
