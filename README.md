@@ -86,7 +86,6 @@
 
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) - Azure Native Provider
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -161,6 +160,7 @@
 ## Python 
 
 - [Jertzukka/dlensExporter](https://github.com/Jertzukka/dlensExporter) - Python GUI program to convert .dlens into .csv format.
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) - Azure Native Provider
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
