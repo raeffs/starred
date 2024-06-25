@@ -17,6 +17,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
@@ -32,11 +33,13 @@
 
 ## C 
 
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 
 ## C# # 
 
+- [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [raeffs/deck-bridge](https://github.com/raeffs/deck-bridge) - 
 - [KristofferStrube/ActivityStreams](https://github.com/KristofferStrube/ActivityStreams) - A .NET implementation of the Activity Streams vocabulary in the form of classes that can be serialized/deserialized using System.Text.Json
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -103,6 +106,10 @@
 ## Handlebars 
 
 - [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
+
+## Inno Setup 
+
+- [qmk/qmk_distro_msys](https://github.com/qmk/qmk_distro_msys) - A Windows one-click installer for the QMK CLI
 
 ## Java 
 
