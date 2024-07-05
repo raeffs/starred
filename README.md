@@ -220,7 +220,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [rx-angular/rx-angular](https://github.com/rx-angular/rx-angular) - Reactive Extensions for Angular.
 - [raeffs/node-toolkit](https://github.com/raeffs/node-toolkit) - An collection of opinionated, reusable and mostly framework-agnostic code that I use throughout my projects.
 - [trungvose/angular-spotify](https://github.com/trungvose/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro
