@@ -20,6 +20,7 @@
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Markdown](#markdown)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -144,6 +145,10 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [angular/dgeni-packages](https://github.com/angular/dgeni-packages) - A collection of dgeni packages for generating documentation from source code.
+
+## Markdown 
+
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 
 ## Others 
 
