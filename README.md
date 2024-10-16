@@ -43,7 +43,7 @@
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [raeffs/deck-bridge](https://github.com/raeffs/deck-bridge) - 
 - [KristofferStrube/ActivityStreams](https://github.com/KristofferStrube/ActivityStreams) - A .NET implementation of the Activity Streams vocabulary in the form of classes that can be serialized/deserialized using System.Text.Json
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [ligershark/WebOptimizer](https://github.com/ligershark/WebOptimizer) - A bundler and minifier for ASP.NET Core
 - [eidias/NetSecurity](https://github.com/eidias/NetSecurity) - 
 - [DuendeSoftware/BFF](https://github.com/DuendeSoftware/BFF) - Framework for ASP.NET Core to secure SPAs using the Backend-for-Frontend (BFF) pattern
